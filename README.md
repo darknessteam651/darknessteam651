@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarknessTeam;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
 <p align="center">
-<a href="https://github.com/darknessteam651"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Darkness Team&description=Hello,%20I%20am%20Darkness Team.%20I&image=https://i.ibb.co/pzwVhxg/1669577394850.jpg&backgroundColor=%23ecf0f1&instagram=@DarknessTeam&github=DarknessTeam&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarknessTeam"/></a>
+<a href="https://github.com/darknessteam651"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Darkness Team&description=Hello,%20I%20am%20darknessteam.%20I&image=https://i.ibb.co/pzwVhxg/1669577394850.jpg&backgroundColor=%23ecf0f1&instagram=@DarknessTeam&github=DarknessTeam&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarknessTeam"/></a>
 </p>
 
 
