@@ -1,15 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarknessTeam;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
-<p align="center">
-<a href="https://github.com/darknessteam651"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Darkness Team&description=Hello,%20I%20am%20darknessteam.%20I&image=https://i.ibb.co/pzwVhxg/1669577394850.jpg&backgroundColor=%23ecf0f1&instagram=@DarknessTeam&github=DarknessTeam&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarknessTeam"/></a>
-</p>
-
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=We+Are+Technical+Hacking+Team;Please+Respect+Us)](https://git.io/typing-svg)
-
-
   <p align="center">
   <a href="https://github.com/darknessteam651?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DarknessTeam"/></a>
